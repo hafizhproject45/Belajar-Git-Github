@@ -1,0 +1,34 @@
+Cara git :
+-Pwd
+-Cd
+-git init
+
+
+Cara pertama :
+-git add  .
+-git commit -m ""
+
+Jika sudah modified :
+-git commit -am ""
+
+Liat graph branch :
+Git log  --all --decorate --oneline --graph
+( graph )
+
+Pindah branch :
+-Git checkout <nama_branch>
+
+Chenk branch :
+-Git branch
+
+Cara liat yang dapat di delete :
+-git branch --merged
+
+Deletenya :
+-git branch -d <nama_branch>
+
+Three way merge :
+-git merge <nama-branch>
+
+Pindah branch ke yg sudah di hapus :
+-git checkout <hash_7>
