@@ -12,14 +12,14 @@ Jika sudah modified :
 -git commit -am ""
 
 Liat graph branch :
-Git log  --all --decorate --oneline --graph
+-git log  --all --decorate --oneline --graph
 ( graph )
 
 Pindah branch :
--Git checkout <nama_branch>
+-git checkout <nama_branch>
 
 Chenk branch :
--Git branch
+-git branch
 
 Cara liat yang dapat di delete :
 -git branch --merged
@@ -35,3 +35,9 @@ Pindah branch ke yg sudah di hapus :
 
 Git Remote :
 -git remote -v ( untuk mengecek isi dari remote )
+-git push ( untuk menambahkan file yang belum ter simpan di github )
+
+Melihat Config :
+-git config --list ( untuk melihat config yang sudah di buat )
+-git config --global <user.name "" dan user.email ""> ( mengubah untuk semua repo )
+-git config --local <user.name "" dan user.email ""> ( mengubah untuk repo yang sedang digunakan saja )
