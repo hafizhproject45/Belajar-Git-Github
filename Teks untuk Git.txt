@@ -2,7 +2,7 @@ Cara git :
 -Pwd ( untuk melihat directory sekarang )
 -Cd ( untunk merubah directory )
 -git init ( untuk menjadi lokal repo )
-
+-cd .. ( keluar directory )
 
 Cara pertama :
 -git add  .
