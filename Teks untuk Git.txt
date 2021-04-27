@@ -51,3 +51,11 @@ Jika sudah selesai koreksi konflik :
 -git add .
 -git commit -m ""
 -git push
+
+cara Remote :
+-git init
+-git add .
+-git commit -m ""
+--copy dari github baris satu <or push an existing repository from the command line>
+--dan baris 2
+
