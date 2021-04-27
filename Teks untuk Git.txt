@@ -42,3 +42,12 @@ Melihat Config :
 -git config --list ( untuk melihat config yang sudah di buat )
 -git config --global <user.name "" dan user.email ""> ( mengubah untuk semua repo )
 -git config --local <user.name "" dan user.email ""> ( mengubah untuk repo yang sedang digunakan saja )
+
+Konflik di remote dan local yang lebih duluan :
+-git fetch ( untuk melihat yang lebih dulu mana)
+-git pull ( untuk menarik file yang tidak sama yang ada di remote )
+
+Jika sudah selesai koreksi konflik :
+-git add .
+-git commit -m ""
+-git push
