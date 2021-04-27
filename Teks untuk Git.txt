@@ -32,3 +32,6 @@ Three way merge :
 
 Pindah branch ke yg sudah di hapus :
 -git checkout <hash_7>
+
+Git Remote :
+-git remote -v ( untuk mengecek isi dari remote )
