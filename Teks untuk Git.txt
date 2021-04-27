@@ -1,7 +1,7 @@
 Cara git :
--Pwd
--Cd
--git init
+-Pwd ( untuk melihat directory sekarang )
+-Cd ( untunk merubah directory )
+-git init ( untuk menjadi lokal repo )
 
 
 Cara pertama :
