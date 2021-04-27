@@ -3,6 +3,7 @@ Cara git :
 -Cd ( untunk merubah directory )
 -git init ( untuk menjadi lokal repo )
 -cd .. ( keluar directory )
+-mkdir <nama_file> ( untuk membuat file baru )
 
 Cara pertama :
 -git add  .
