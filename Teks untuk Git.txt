@@ -35,3 +35,10 @@ Pindah branch ke yg sudah di hapus :
 
 Git Remote :
 -git remote -v ( untuk mengecek isi dari remote )
+
+cara Remote :
+-git init
+-git add .
+-git commit -m ""
+--copy dari github baris satu <or push an existing repository from the command line>
+--dan baris 2
